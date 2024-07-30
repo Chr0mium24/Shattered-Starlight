@@ -3,5 +3,6 @@
 renpy-8.2.3-sdk.7z.exe
 
 # 编辑器环境
-/.vscode
+/.vscode/*
 "/Shattered Starlight/game/.vscode"
+
